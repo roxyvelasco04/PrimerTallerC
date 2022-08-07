@@ -1,0 +1,2 @@
+# PrimerTallerC
+Se presenta un programa elaborado en el lenguaje de programación C, dicho lenguaje de programación estructurado es uno de los más conocidos a nivel mundial, creado por Brian Kernighan y Dennis Ritchie a mediados de los años 70. Según lo anterior, con el fin de indagar un poco más en el lenguaje de programación C y realizar una introducción a su lógica algorítmica, se realizó un programa donde a través de un menú se integran diferentes ejercicios propuestos por el profesor de la asignatura Computación Paralela y Distribuida de la Universidad Sergio Arboleda.
